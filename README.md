@@ -1,2 +1,2 @@
-# tic-tac-toe
-tic-tac-toe the game
+# tictactoe
+tic-tac-toe
